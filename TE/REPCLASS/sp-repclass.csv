@@ -1,0 +1,605 @@
+Repeat,RepeatModeler Classification,Class,Sub-Class,Super-Family,Notes
+rnd-1_family-103,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-75,Unknown,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-17,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-87,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-24,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-169,DNA/TcMar-ISRm11,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-211,LTR/DIRS,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-161,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-250,DNA/Academ,C(T-> i),SC(H-> dna transposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-1_family-72,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-219,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-162,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-135,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-91,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-44,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-264,DNA/TcMar,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-196,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-88,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-112,DNA/hAT-Ac,C(),SC(H-> helitron),SF(),-
+rnd-1_family-258,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-173,DNA/TcMar,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-48,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-207,LTR/DIRS,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-239,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.
+rnd-1_family-208,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-11,DNA/TcMar,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-159,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-110,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-145,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-166,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-65,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-225,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-233,DNA/PIF-Harbinger,C(T-> i),SC(H-> dna transposon T-> non-ltr retrotransposon penelope),SF(T-> line/sine),No TSD consensus. Maximum TSD length is 7.
+rnd-1_family-251,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-63,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-175,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-1_family-181,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-222,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-231,LINE/Proto2,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-1_family-67,DNA/TcMar-Tc1,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(H-> sine),-
+rnd-1_family-136,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-41,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-9,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.
+rnd-1_family-40,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-79,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-76,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-0,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-85,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-182,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-1_family-7,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-70,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-262,LTR/Gypsy,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-141,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-187,DNA/TcMar-ISRm11,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-152,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-4,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-163,DNA/Sola,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-160,Simple_repeat,C(),SC(H-> helitron),SF(),-
+rnd-1_family-27,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-97,DNA/Kolobok-T2,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-246,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-66,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-102,DNA/Maverick,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-241,DNA,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.
+rnd-1_family-126,DNA/CMC-EnSpm,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-55,LTR/DIRS,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-43,DNA,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-226,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-269,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-77,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-71,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-59,DNA/TcMar-Tc1,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-61,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-80,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-14,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),No TSD consensus. Maximum TSD length is 2.
+rnd-1_family-130,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-1_family-277,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),No TSD consensus. Maximum TSD length is 2.
+rnd-1_family-82,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-16,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-115,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-101,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-23,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-216,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-37,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-157,SINE?,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-57,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-109,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-272,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-45,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-1_family-184,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-78,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-138,SINE/tRNA,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-93,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-210,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-13,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-22,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-92,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-123,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-127,DNA/CMC-EnSpm,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-278,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-265,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-74,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-139,LTR/DIRS,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-60,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-99,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-134,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-117,SINE/MIR,C(T-> ii),SC(H-> non-ltr retrotransposon T-> dna transposon),SF(H-> sine T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.
+rnd-1_family-38,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-56,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-107,DNA/Maverick,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-111,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-46,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-15,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-189,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-47,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-119,SINE/tRNA,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-121,SINE?,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-52,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-39,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-124,SINE?,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-132,SINE/tRNA,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-120,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-1,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-84,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-53,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-236,buffer,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.
+rnd-1_family-35,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-33,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-158,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-282,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-279,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-69,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-284,DNA/PiggyBac,C(),SC(H-> ltr retrotransposon dna transposon),SF(),-
+rnd-1_family-128,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),No TSD consensus. Maximum TSD length is 7.
+rnd-1_family-293,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-294,DNA/Academ,C(),SC(H-> dna transposon),SF(H-> academ),-
+rnd-1_family-301,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-303,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-304,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-297,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-122,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-318,DNA/hAT-hATw,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-312,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-322,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-324,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-333,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-336,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(H-> harbinger),-
+rnd-1_family-347,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-1_family-349,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.
+rnd-1_family-359,LTR/Copia,C(T-> ii),SC(T-> dna transposon),SF(),No TSD consensus. Maximum TSD length is 2.
+rnd-1_family-360,LINE/L2,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(),-
+rnd-1_family-362,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-363,DNA/hAT-hATw,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-364,LINE/L2,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(),-
+rnd-1_family-371,LINE/L2,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(),-
+rnd-1_family-376,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(H-> penelope),-
+rnd-1_family-378,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(H-> penelope),-
+rnd-1_family-379,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-383,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-384,DNA/Crypton,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-389,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-391,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-397,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-405,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-409,DNA/hAT,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-411,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-413,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(H-> cr1),-
+rnd-1_family-415,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-1_family-421,DNA/CMC-Transib,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-428,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-429,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-430,DNA/TcMar-Tc2,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-432,DNA/CMC-Transib,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-434,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-437,LINE/CR1,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.
+rnd-1_family-438,Satellite,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-439,LINE/L2,C(T-> ii),SC(H-> non-ltr retrotransposon T-> dna transposon),SF(T-> is5/pif/harbinger is630/tc1/mariner),TSD consensus length is 3.
+rnd-1_family-422,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-446,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-449,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-451,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-456,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-458,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-459,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-462,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> cr1),-
+rnd-1_family-469,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-470,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),
+rnd-1_family-471,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(H-> harbinger),-
+rnd-1_family-472,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-474,DNA/hAT-hATw,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-466,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-486,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-487,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-488,SINE/tRNA-Deu-CR1,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-491,DNA/CMC-Transib,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-492,LTR/Gypsy,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-493,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-495,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.
+rnd-1_family-496,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-509,LINE/L2,C(T-> i),SC(H-> non-ltr retrotransposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),No TSD consensus. Maximum TSD length is 5.
+rnd-1_family-511,LTR/Pao,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-512,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-514,DNA/hAT,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-516,LTR/Gypsy,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-529,DNA/CMC-EnSpm,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-530,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-481,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-545,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-549,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-558,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),No TSD consensus. Maximum TSD length is 2.
+rnd-1_family-569,DNA/TcMar-ISRm11,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-593,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-599,DNA/hAT-Tip100,C(T-> i),SC(H-> dna transposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-1_family-600,DNA/TcMar,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-601,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-607,LTR/Gypsy,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-609,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(H-> harbinger),-
+rnd-1_family-619,DNA/hAT,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-629,LINE/L1,C(T-> ii),SC(T-> dna transposon),SF(),No TSD consensus. Maximum TSD length is 2.
+rnd-1_family-636,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-637,DNA/hAT,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-644,LTR/ERVL,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-657,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-660,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-662,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-667,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-669,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-674,LINE/L2,C(T-> ii),SC(H-> non-ltr retrotransposon T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-676,buffer,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-691,DNA/hAT-Blackjack,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-695,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-689,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-703,DNA/CMC-Transib,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-705,DNA/hAT-Ac,C(),SC(H-> dna transposon),SF(H-> hat),-
+rnd-1_family-708,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-1_family-711,DNA/hAT-hATx,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-714,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-716,LTR/Pao,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-1_family-726,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-727,LINE/R1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-733,DNA/hAT-Ac,C(),SC(H-> dna transposon),SF(H-> hat),-
+rnd-1_family-734,LTR/Gypsy,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-748,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-754,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-772,LINE/L1-Tx1,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-795,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-797,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-814,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-821,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-826,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-753,LTR/Pao,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-831,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-834,LTR/Pao,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-836,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-840,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-848,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-852,LTR/ERVL,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-867,LTR/ERV1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-877,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-879,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-880,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-884,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-886,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-887,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-890,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-895,LTR/Gypsy,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-902,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-916,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-927,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-928,LINE/L2,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-930,LTR/Gypsy,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-954,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-907,LINE/L2,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-1_family-955,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-949,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-950,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-2_family-138,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-2_family-310,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-2_family-43,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-2_family-52,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-2_family-179,DNA/PiggyBac,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-2_family-72,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-2_family-216,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-3_family-72,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-3_family-132,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-3_family-51,DNA/TcMar-Tc1,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(H-> sine),-
+rnd-3_family-1168,DNA/PiggyBac,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(H-> piggybac T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-3_family-305,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-3_family-288,Unknown,C(),SC(H-> dna transposon),SF(),-
+rnd-3_family-549,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-3_family-718,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-3_family-64,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-3_family-1196,DNA/TcMar,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-1676,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-88,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-928,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-982,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-4_family-33,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-4_family-935,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-3105,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-4_family-187,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-4_family-3988,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-973,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-2090,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-3082,DNA/PiggyBac,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(),No TSD consensus. Maximum TSD length is 2.
+rnd-4_family-74,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-4_family-545,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-4_family-1122,DNA/TcMar-Tc1,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(H-> sine),-
+rnd-4_family-1446,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-399,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),No TSD consensus. Maximum TSD length is 5.
+rnd-4_family-2106,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-397,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-2360,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-513,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-933,DNA/PiggyBac,C(),SC(H-> ltr retrotransposon dna transposon),SF(),-
+rnd-4_family-86,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-2313,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-2105,DNA/TcMar-Tc2,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-564,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-503,DNA/PiggyBac,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-1744,DNA,C(T-> i),SC(H-> dna transposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-5_family-73,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-167,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-741,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-225,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-310,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-131,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-580,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-229,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-235,DNA/PiggyBac,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-255,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4809,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1434,LINE,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-9369,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-3065,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-5_family-295,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4875,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-971,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-4497,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-5_family-3274,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5297,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1371,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-5_family-3309,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6476,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-7838,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-5_family-33,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2441,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1297,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1560,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-425,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3503,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-39,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6862,LINE/L1,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-120,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-709,DNA,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2220,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-53,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2222,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3912,DNA/MULE-MuDR,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1610,LINE/I,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1865,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2068,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5121,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5412,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-405,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3124,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-114,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4446,DNA/MuLE-MuDR,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-2257,LINE/RTE-RTE,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1167,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-3305,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1336,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-206,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-399,LINE/RTE-X,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3779,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1319,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-337,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-1763,LINE/L2,C(T-> ii),SC(H-> non-ltr retrotransposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-186,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3689,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1414,DNA/hAT-Tip100,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.
+rnd-5_family-5331,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-3974,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-349,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-315,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1710,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-545,LINE/Proto2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3224,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1604,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1684,LTR/DIRS,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-4819,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3565,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-7014,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1734,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4313,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1031,LTR/Copia,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6009,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-7433,SINE?,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(H-> sine),-
+rnd-5_family-1517,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-644,LINE/Rex-Babar,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-148,DNA/hAT-hATw,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-3668,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1069,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-893,DNA/hAT-Ac,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-4928,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3416,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2386,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1612,LTR/Pao,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-339,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-2358,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-3813,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3553,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.
+rnd-5_family-4354,DNA/hAT-Blackjack,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-5995,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1293,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-967,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-829,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-810,DNA/hAT-Blackjack,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-4437,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1592,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-581,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-11,DNA/hAT-Ac,C(),SC(H-> dna transposon),SF(H-> hat),-
+rnd-5_family-3040,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-537,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2558,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6874,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5696,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-6675,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-2296,Unknown,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-1107,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-409,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1483,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3721,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3584,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5343,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1629,LINE/I,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4218,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2517,LTR/Gypsy,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1054,DNA/TcMar-ISRm11,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-7468,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-3031,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6447,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4253,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3296,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-1768,LTR/Copia,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-5770,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5575,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-2313,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1180,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-2321,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4265,DNA/PiggyBac,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-1375,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1568,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3560,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3005,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5369,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-205,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1760,LTR/Pao,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-510,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6622,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1563,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-468,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5105,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2242,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-896,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-583,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1539,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(H-> cr1),-
+rnd-5_family-2750,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-11168,Unknown,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-183,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-7258,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2581,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-8113,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-7748,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1339,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-3962,LINE/Rex-Babar,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5603,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-162,LINE/Rex-Babar,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5081,LTR/Gypsy,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-3426,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2020,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-3542,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-2757,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-393,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-708,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1791,LINE/L2,C(T-> i),SC(H-> non-ltr retrotransposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-5_family-1335,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5056,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1688,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2308,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-9417,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-744,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-156,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(H-> piggybac),-
+rnd-6_family-49,SINE/MIR,C(),SC(H-> non-ltr retrotransposon dna transposon),SF(H-> sine),-
+rnd-6_family-4847,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-791,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-6_family-1416,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-702,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-780,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-715,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-6_family-526,LINE/I,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-294,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-15656,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-6_family-953,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-2071,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-8366,DNA/Academ,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-6_family-1059,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-2427,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-531,LINE/RTE-X,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-12,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-1262,DNA/PiggyBac,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-3577,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-6_family-101,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-9462,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-14,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.
+rnd-6_family-2190,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3944,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3660,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1222,DNA/Sola,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-187,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-4482,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3205,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-9,Simple_repeat,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.
+rnd-6_family-1917,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-692,LINE/R2-Hero,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-12984,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-2495,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-180,DNA/TcMar-Pogo,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-495,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-878,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-56,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-6_family-2473,DNA/hAT-Blackjack,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-7521,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1670,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-1588,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-7136,DNA/hAT-hAT6,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-2696,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-779,SINE/tRNA,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-6_family-2266,LINE/RTE-X,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3255,LTR/Pao,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-7553,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-1783,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3620,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-213,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-5212,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-6936,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-6919,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-595,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-678,DNA/TcMar,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-845,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-653,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(H-> cr1),-
+rnd-6_family-1413,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-721,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-11143,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-567,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-86,LTR/Gypsy,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-893,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1009,DNA/hAT,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-1126,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1010,LTR/Pao,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-6_family-2048,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-10066,LTR/Gypsy,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-7186,buffer,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-2033,LTR/Ngaro,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-5,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-10210,SINE/tRNA,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-6_family-13118,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1227,DNA/Maverick,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-594,DNA,C(T-> i),SC(H-> dna transposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-6_family-39,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1884,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-188,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-54,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-137,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-175,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-4167,LINE/RTE-X,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-5159,LTR/Pao,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-2072,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-8062,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-8030,Unknown,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-713,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-6_family-6220,LTR/ERV1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1123,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1221,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-147,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-5794,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-2496,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-5613,Unknown,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-9098,DNA,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-6_family-1353,LINE/Penelope,C(T-> ii),SC(H-> non-ltr retrotransposon T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-6_family-37,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-2513,Unknown,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-5303,LTR/ERV4,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-6_family-3393,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1995,LINE/L1-Tx1,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-1486,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-91,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-569,Satellite,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.
+rnd-6_family-2307,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-9612,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-2256,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3604,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-757,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3774,DNA/TcMar-ISRm11,C(),SC(H-> dna transposon),SF(),-

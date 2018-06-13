@@ -1,0 +1,522 @@
+Repeat,RepeatModeler Classification,Class,Sub-Class,Super-Family,Notes
+rnd-1_family-146,LTR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 29.
+rnd-1_family-198,LTR/Copia,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-43,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 81.
+rnd-1_family-93,SINE/MIR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TAT.
+rnd-1_family-20,DNA/hAT-Blackjack,C(S_LTR-> i),SC(S_LTR-> ltr retrotransposon),SF(),Terminal Repeat consensus length is 121.
+rnd-1_family-83,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 35.
+rnd-1_family-234,Simple_repeat,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-1_family-302,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 7.
+rnd-1_family-231,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 255.
+rnd-1_family-78,DNA/Academ,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 163.
+rnd-1_family-88,SINE/MIR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTA.
+rnd-1_family-216,LTR/Copia,C(T-> ii S_LTR-> i),SC(T-> dna transposon S_LTR-> Short Terminal Repeat),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.Terminal Repeat consensus length is 17.
+rnd-1_family-489,DNA/PIF-Harbinger,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 132.
+rnd-1_family-282,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-1_family-412,LTR/Pao,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-229,DNA/Crypton,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 99.
+rnd-1_family-244,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-1_family-305,DNA/TcMar,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 28.
+rnd-1_family-75,SINE/MIR,C(),SC(H-> non-ltr retrotransposon non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-492,LINE/L2,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GGGT.
+rnd-1_family-391,LTR/Copia,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.
+rnd-1_family-480,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 86.
+rnd-1_family-63,LINE/Rex-Babar,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-1_family-68,SINE/MIR,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-1_family-392,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AACC.
+rnd-1_family-28,SINE/ID,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 14.
+rnd-1_family-323,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.
+rnd-1_family-425,DNA/PIF-Harbinger,C(S_TIR-> ii),SC(H-> dna transposon S_TIR-> dna transposon),SF(),TIR consensus length is 23.
+rnd-1_family-365,DNA,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.TIR consensus length is 312.
+rnd-1_family-309,DNA/Sola,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 36.
+rnd-1_family-61,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.TIR consensus length is 213.
+rnd-1_family-4,DNA/hAT-Ac,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TCGAG.
+rnd-1_family-197,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 64.
+rnd-1_family-11,DNA/hAT-Tag1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 252.
+rnd-1_family-84,LINE/Jockey,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 28.
+rnd-1_family-133,LINE/L1,C(T-> ii S_LTR-> i),SC(T-> dna transposon S_LTR-> ltr retrotransposon),SF(T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.Terminal Repeat consensus length is 113.
+rnd-1_family-409,LINE/L1,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-488,Unknown,C(S_TIR-> ii S_LTR-> i),SC(S_TIR-> dna transposon S_LTR-> Short Terminal Repeat),SF(),TIR consensus length is 18.Terminal Repeat consensus length is 21.
+rnd-1_family-410,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-1_family-336,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 221.
+rnd-1_family-97,LTR/Pao,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.TIR consensus length is 35.
+rnd-1_family-58,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 39.
+rnd-1_family-165,DNA/Crypton,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 50.
+rnd-1_family-401,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 61.
+rnd-1_family-236,DNA/Ginger,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GT.
+rnd-1_family-0,LTR/Ngaro,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 14.
+rnd-1_family-362,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 8.
+rnd-1_family-53,SINE/MIR,C(),SC(H-> non-ltr retrotransposon non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-432,LINE/L1,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.TIR consensus length is 35.
+rnd-1_family-135,LTR/Ngaro,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TAA.
+rnd-1_family-264,DNA/Harbinger,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 164.
+rnd-1_family-257,LTR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 18.
+rnd-1_family-54,LTR/ERV1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 212.
+rnd-1_family-87,LTR/Copia,C(S_TIR-> ii S_SSR-> i),SC(S_TIR-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),TIR consensus length is 24.Short sequence repeated is AAAAA.
+rnd-1_family-426,DNA/MULE-MuDR,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 64.
+rnd-1_family-16,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 34.
+rnd-1_family-44,SINE/MIR,C(S_SSR-> i),SC(H-> ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is ATT.
+rnd-1_family-71,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 24.
+rnd-1_family-474,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-493,DNA,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-1_family-183,DNA/PiggyBac,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.
+rnd-1_family-127,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.TIR consensus length is 50.
+rnd-1_family-320,DNA/PIF-Harbinger,C(S_TIR-> ii),SC(H-> dna transposon S_TIR-> dna transposon),SF(),TIR consensus length is 79.
+rnd-1_family-366,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 65.
+rnd-1_family-29,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 96.
+rnd-1_family-321,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 32.
+rnd-1_family-169,DNA/hAT-Ac,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),No TSD consensus. Maximum TSD length is 8.TIR consensus length is 28.
+rnd-1_family-172,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-1_family-141,LTR,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.
+rnd-1_family-5,LTR/ERV1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 24.
+rnd-1_family-164,DNA/Zator,C(S_TIR-> ii),SC(H-> dna transposon S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-1_family-326,DNA/TcMar-ISRm11,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 77.
+rnd-1_family-371,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 11.
+rnd-1_family-277,Satellite,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.TIR consensus length is 24.
+rnd-1_family-3,LTR/ERV1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 24.
+rnd-1_family-102,DNA/hAT-Blackjack,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-1_family-73,SINE/MIR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TAT.
+rnd-1_family-255,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 48.
+rnd-1_family-217,DNA/TcMar-Tigger,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 29.
+rnd-1_family-35,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 53.
+rnd-1_family-227,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.TIR consensus length is 28.
+rnd-1_family-233,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 31.
+rnd-1_family-181,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.TIR consensus length is 65.
+rnd-1_family-230,LINE,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-1_family-64,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.TIR consensus length is 27.
+rnd-1_family-240,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 123.
+rnd-1_family-57,DNA,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-1_family-364,LTR/Copia,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> unknown),TSD consensus length is 6.TIR consensus length is 23.
+rnd-1_family-262,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-1_family-482,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 338.
+rnd-1_family-247,LTR/Gypsy,C(T-> ii),SC(T-> helitron),SF(),Palindrome length is 14.
+rnd-1_family-33,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.TIR consensus length is 29.
+rnd-1_family-145,LTR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-1_family-47,SINE/MIR,C(),SC(H-> non-ltr retrotransposon non-ltr retrotransposon),SF(H-> sine),-
+rnd-1_family-111,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 37.
+rnd-1_family-464,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-491,LTR/Copia,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-32,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 12.
+rnd-1_family-268,LTR/ERV1,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GGGGG.
+rnd-1_family-322,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 225.
+rnd-1_family-280,LINE/L2,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 57.
+rnd-1_family-434,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-354,LTR/Copia,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> transib),TSD consensus length is 5.TIR consensus length is 35.
+rnd-1_family-279,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-1_family-182,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 94.
+rnd-1_family-107,DNA/TcMar-Tc4,C(S_LTR-> i),SC(S_LTR-> ltr retrotransposon),SF(),Terminal Repeat consensus length is 231.
+rnd-1_family-21,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 23.
+rnd-1_family-27,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 61.
+rnd-1_family-207,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 91.
+rnd-1_family-204,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 7.
+rnd-1_family-143,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 92.
+rnd-1_family-329,Unknown,C(S_TIR-> ii S_LTR-> i),SC(S_TIR-> dna transposon S_LTR-> Short Terminal Repeat),SF(),TIR consensus length is 23.Terminal Repeat consensus length is 8.
+rnd-1_family-341,DNA/TcMar-ISRm11,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 256.
+rnd-1_family-110,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-1_family-131,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 232.
+rnd-1_family-213,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-1_family-269,SINE/tRNA-V,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(H-> sine),Short sequence repeated is ATT.
+rnd-1_family-289,Satellite,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-1_family-370,LTR/Copia,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 10.
+rnd-1_family-36,LTR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CAGTA.
+rnd-1_family-34,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 59.
+rnd-1_family-422,DNA,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 44.
+rnd-1_family-104,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 36.
+rnd-1_family-45,DNA/hAT-Charlie,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 7.
+rnd-1_family-49,DNA/Zator,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 34.
+rnd-1_family-239,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 70.
+rnd-1_family-122,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 14.
+rnd-1_family-315,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 20.
+rnd-1_family-112,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 44.
+rnd-1_family-394,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 63.
+rnd-1_family-342,LTR/ERV1,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-1_family-52,SINE/MIR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is ATT.
+rnd-1_family-459,LTR/Copia,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.TIR consensus length is 24.
+rnd-1_family-232,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.TIR consensus length is 28.
+rnd-1_family-8,RC/Helitron,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 24.
+rnd-1_family-142,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 65.
+rnd-1_family-226,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-138,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 30.
+rnd-1_family-31,DNA/hAT-Ac,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TCGAG.
+rnd-1_family-77,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 10.
+rnd-1_family-350,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 47.
+rnd-1_family-513,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-517,LINE/Penelope,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 121.
+rnd-1_family-520,LTR/Gypsy,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 4.
+rnd-1_family-299,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 41.
+rnd-1_family-521,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-1_family-523,DNA/hAT-Tag1,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TAT.
+rnd-1_family-525,DNA/CMC-EnSpm,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 143.
+rnd-1_family-526,SINE/tRNA,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 9.
+rnd-1_family-476,Unknown,C(T-> ii S_LTR-> i),SC(T-> dna transposon S_LTR-> Short Terminal Repeat),SF(),No TSD consensus. Maximum TSD length is 2.Terminal Repeat consensus length is 33.
+rnd-1_family-201,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-540,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 221.
+rnd-1_family-541,DNA/hAT-Tip100,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-546,DNA/PIF-Harbinger,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-170,DNA/hAT-Ac,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TCGAG.
+rnd-1_family-548,DNA/TcMar-Sagan,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> transib),TSD consensus length is 5.TIR consensus length is 17.
+rnd-1_family-560,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 61.
+rnd-1_family-564,DNA/hAT-Charlie,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 223.
+rnd-1_family-575,DNA/Crypton,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 71.
+rnd-1_family-576,DNA/hAT-hATm,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-586,DNA/TcMar-Mariner,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-578,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-603,DNA/hAT-Ac,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-1_family-605,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.TIR consensus length is 30.
+rnd-1_family-612,DNA/Academ,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 36.
+rnd-1_family-615,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 242.
+rnd-1_family-618,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 76.
+rnd-1_family-626,DNA/TcMar-ISRm11,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-627,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 38.
+rnd-1_family-630,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 14.
+rnd-1_family-636,DNA/hAT-Ac,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CCGAC.
+rnd-1_family-642,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-1_family-646,DNA,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-1_family-652,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 54.
+rnd-1_family-662,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-1_family-657,DNA/CMC-EnSpm,C(S_TIR-> ii S_LTR-> i),SC(S_TIR-> dna transposon S_LTR-> Short Terminal Repeat),SF(),TIR consensus length is 27.Terminal Repeat consensus length is 24.
+rnd-1_family-665,LINE/I,C(T-> ii),SC(T-> helitron),SF(),No TSD consensus. Maximum TSD length is 12.
+rnd-1_family-673,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 56.
+rnd-1_family-675,DNA/PIF-Harbinger,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-682,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 23.
+rnd-1_family-687,DNA/hAT-Blackjack,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 88.
+rnd-1_family-696,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> ltr retrotransposon),SF(),Terminal Repeat consensus length is 153.
+rnd-1_family-709,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-1_family-725,DNA/Zator,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-1_family-739,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 18.
+rnd-1_family-743,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 10.
+rnd-1_family-744,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 22.
+rnd-1_family-752,DNA/Crypton,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-775,LINE/L1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 24.
+rnd-1_family-777,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 49.
+rnd-1_family-805,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 106.
+rnd-1_family-808,LTR/Gypsy,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-813,LTR/Pao,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-804,LTR/Pao,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-1_family-819,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 78.
+rnd-1_family-824,DNA/hAT-Tip100,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-827,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-838,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 7.
+rnd-1_family-840,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 32.
+rnd-1_family-854,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 25.
+rnd-1_family-835,Simple_repeat,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 31.
+rnd-1_family-867,DNA/CMC-EnSpm,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.TIR consensus length is 34.
+rnd-1_family-872,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GC.
+rnd-1_family-879,DNA/Academ,C(),SC(H-> dna transposon),SF(),-
+rnd-1_family-893,Unknown,C(T-> ii S_LTR-> i),SC(T-> dna transposon S_LTR-> Short Terminal Repeat),SF(),No TSD consensus. Maximum TSD length is 2.Terminal Repeat consensus length is 14.
+rnd-1_family-896,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GGGGG.
+rnd-1_family-910,LINE/CR1-Zenon,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-913,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-914,LINE/Penelope,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 72.
+rnd-1_family-925,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 22.
+rnd-1_family-926,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 33.
+rnd-1_family-930,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 18.
+rnd-1_family-935,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 108.
+rnd-1_family-940,LTR/ERV1,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TT.
+rnd-1_family-951,LTR/Pao,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-953,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-956,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 206.
+rnd-1_family-975,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),No TSD consensus. Maximum TSD length is 2.
+rnd-1_family-989,LINE/CR1-Zenon,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-991,LINE/L1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-1005,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-1026,LINE/CR1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 20.
+rnd-1_family-1045,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TT.
+rnd-1_family-1046,DNA/Kolobok-Hydra,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 17.
+rnd-1_family-1051,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 35.
+rnd-1_family-1039,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-1_family-1058,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-1061,DNA,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 4.
+rnd-1_family-1075,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AAT.
+rnd-1_family-1081,LTR/Copia,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-1095,LTR/Copia,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-1108,Unknown,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 25.
+rnd-1_family-1126,LTR/Ngaro,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 14.
+rnd-1_family-1130,LTR/DIRS,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 7.
+rnd-1_family-1134,LTR/Copia,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-1145,LTR/Pao,C(T-> i),SC(H-> dna transposon T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),No TSD consensus. Maximum TSD length is 5.
+rnd-1_family-1149,LTR/Pao,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-1150,DNA/Maverick,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 8.
+rnd-1_family-1162,Unknown,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-1_family-1168,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-1_family-1173,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-1_family-1188,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-1_family-1210,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 21.
+rnd-1_family-1213,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Poly A trail length is 7.
+rnd-1_family-1214,LTR/ERV4,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 21.
+rnd-1_family-1221,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.TIR consensus length is 21.
+rnd-2_family-26,DNA/MULE-MuDR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 45.
+rnd-3_family-101,LINE/L1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-3_family-62,LINE/L2,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 18.
+rnd-3_family-613,LTR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 102.
+rnd-3_family-20,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 248.
+rnd-3_family-400,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 25.
+rnd-3_family-1451,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-3_family-188,Simple_repeat,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TCAG.
+rnd-4_family-1702,Simple_repeat,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 54.
+rnd-4_family-89,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 35.
+rnd-4_family-27,LTR/Copia,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-4_family-84,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 44.
+rnd-4_family-340,DNA/CMC-EnSpm,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 156.
+rnd-4_family-1071,DNA/hAT-Tip100,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 86.
+rnd-4_family-383,DNA/CMC-EnSpm,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 35.
+rnd-4_family-22,DNA/Maverick,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 24.
+rnd-4_family-2126,DNA/hAT-Ac,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GTCGG.
+rnd-4_family-15,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 35.
+rnd-4_family-2652,LTR/Copia,C(T-> ii S_SSR-> i),SC(T-> helitron S_SSR-> non-ltr retrotransposon),SF(),Palindrome length is 12.Short sequence repeated is GG.
+rnd-4_family-264,Simple_repeat,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CAGA.
+rnd-4_family-840,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CCCCC.
+rnd-4_family-725,buffer,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 38.
+rnd-4_family-444,LINE/L1-Tx1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 248.
+rnd-4_family-1763,DNA,C(),SC(H-> dna transposon),SF(),-
+rnd-4_family-530,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 213.
+rnd-4_family-306,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 33.
+rnd-4_family-855,LTR/Pao,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-4_family-295,LINE/Jockey,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CCCCC.
+rnd-4_family-738,LINE/L1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 48.
+rnd-4_family-1052,LTR/ERV1,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TT.
+rnd-4_family-1322,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 56.
+rnd-4_family-1155,LINE/L2,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTA.
+rnd-4_family-873,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-4_family-54,DNA/hAT-Tip100,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-4_family-591,LINE/L2,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTGAA.
+rnd-4_family-2357,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 35.
+rnd-4_family-883,LINE/RTE-BovB,C(T-> ii),SC(T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.
+rnd-4_family-2024,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 79.
+rnd-4_family-885,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-4_family-1381,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TT.
+rnd-4_family-36,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-4_family-60,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-4_family-574,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-642,DNA/Harbinger,C(T-> i S_SSR-> i),SC(T-> ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.Short sequence repeated is GG.
+rnd-5_family-1094,LINE,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-179,DNA/PIF-Harbinger,C(S_SSR-> i),SC(H-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AAAAA.
+rnd-5_family-3331,DNA/Crypton,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 21.
+rnd-5_family-3430,DNA/hAT-Ac,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 54.
+rnd-5_family-1483,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 38.
+rnd-5_family-2603,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-936,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-676,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-2890,DNA/CMC-Chapaev,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 41.
+rnd-5_family-2553,DNA/MULE-MuDR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-5_family-446,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-778,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 85.
+rnd-5_family-2991,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 59.
+rnd-5_family-3168,LTR/DIRS,C(T-> ii),SC(T-> helitron),SF(),Palindrome length is 12.
+rnd-5_family-473,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 30.
+rnd-5_family-2114,DNA/hAT-hAT5,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-2026,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2608,DNA/Kolobok-Hydra,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 29.
+rnd-5_family-1,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 17.
+rnd-5_family-548,LTR/DIRS,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-1666,DNA/Zator,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AA.
+rnd-5_family-503,LTR/Copia,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-3417,DNA/Maverick,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-2199,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3410,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-5_family-176,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.TIR consensus length is 55.
+rnd-5_family-1249,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 138.
+rnd-5_family-1039,DNA,C(S_TIR-> ii S_LTR-> i),SC(S_TIR-> dna transposon S_LTR-> Short Terminal Repeat),SF(),TIR consensus length is 26.Terminal Repeat consensus length is 8.
+rnd-5_family-2802,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 249.
+rnd-5_family-311,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 37.
+rnd-5_family-2029,LTR/Gypsy,C(S_TIR-> ii S_SSR-> i),SC(S_TIR-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),TIR consensus length is 28.Short sequence repeated is AA.
+rnd-5_family-703,DNA/hAT-Blackjack,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.
+rnd-5_family-1388,LTR/Gypsy,C(T-> ii),SC(T-> helitron),SF(),Palindrome length is 12.
+rnd-5_family-1251,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 29.
+rnd-5_family-828,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 11.
+rnd-5_family-1199,LINE/L2,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is ATTGA.
+rnd-5_family-721,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-5_family-192,LINE/L2,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTA.
+rnd-5_family-285,buffer,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 27.
+rnd-5_family-1381,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-398,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6075,DNA/Sola,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-5314,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2210,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3299,DNA/hAT-Blackjack,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 70.
+rnd-5_family-5013,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 249.
+rnd-5_family-1404,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-5_family-1338,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 22.
+rnd-5_family-681,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 31.
+rnd-5_family-5497,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-754,buffer,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-5_family-271,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-1268,LTR/Ngaro,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-1287,LINE/CR1,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AAT.
+rnd-5_family-3322,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2288,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3925,DNA/CMC-EnSpm,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 172.
+rnd-5_family-916,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5063,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-9026,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 72.
+rnd-5_family-2306,buffer,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CCCCC.
+rnd-5_family-65,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-5_family-15835,LTR/Gypsy,C(T-> ii S_LTR-> i),SC(T-> dna transposon S_LTR-> Short Terminal Repeat),SF(T-> cacta/en/spm is5/pif/harbinger),No TSD consensus. Maximum TSD length is 3.Terminal Repeat consensus length is 42.
+rnd-5_family-7132,LTR/ERV1,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-4869,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3051,LTR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 48.
+rnd-5_family-335,DNA,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-866,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-5_family-1746,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-4268,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GG.
+rnd-5_family-1179,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1087,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3293,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-8306,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3439,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 162.
+rnd-5_family-597,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 130.
+rnd-5_family-5487,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 139.
+rnd-5_family-4654,LTR/ERVK,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 6.
+rnd-5_family-945,DNA/TcMar-ISRm11,C(T-> ii),SC(H-> dna transposon T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-5_family-6051,DNA/Sola,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GG.
+rnd-5_family-1549,Unknown,C(T-> i S_SSR-> i),SC(T-> ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),Palindrome length is 16.Short sequence repeated is GG.
+rnd-5_family-1235,SINE/MIR,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-1276,LINE/Jockey,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-5745,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 25.
+rnd-5_family-1715,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2493,LTR/DIRS,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-4794,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3928,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-554,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 42.
+rnd-5_family-3262,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4153,DNA/TcMar-Tc1,C(),SC(H-> dna transposon),SF(),-
+rnd-5_family-1501,LTR/Copia,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 4.
+rnd-5_family-2256,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is ACAAA.
+rnd-5_family-299,LTR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GG.
+rnd-5_family-1840,SINE/MIR,C(),SC(H-> non-ltr retrotransposon),SF(H-> sine),-
+rnd-5_family-773,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 201.
+rnd-5_family-10859,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-4046,LINE/RTE-RTE,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6774,LTR/DIRS,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-3053,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.TIR consensus length is 59.
+rnd-5_family-2963,LTR/Copia,C(S_TIR-> ii S_SSR-> i),SC(S_TIR-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),TIR consensus length is 205.Short sequence repeated is TTTTT.
+rnd-5_family-3731,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2562,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-5_family-1667,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-5_family-386,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-195,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-5_family-8296,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2009,LTR/Gypsy-Cigr,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-2795,LTR/Copia,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-1166,LTR,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-4491,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),No TSD consensus. Maximum TSD length is 5.
+rnd-5_family-12864,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 53.
+rnd-5_family-3156,LTR/DIRS,C(S_SSR-> i),SC(H-> ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-5227,LTR/Copia,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 13.
+rnd-5_family-1221,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-5_family-2163,LTR/DIRS,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-5_family-169,DNA/hAT-Ac,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 32.
+rnd-5_family-1055,DNA/hAT-Ac,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 31.
+rnd-5_family-2011,LTR/Gypsy,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),No TSD consensus. Maximum TSD length is 6.
+rnd-5_family-5543,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2698,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-5_family-5453,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 45.
+rnd-5_family-3136,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 120.
+rnd-5_family-1131,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-5822,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-5_family-2647,LINE/Rex-Babar,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-1747,DNA/TcMar-Fot1,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-5_family-1037,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-850,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-5_family-784,DNA/MULE-MuDR,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> unknown),No TSD consensus. Maximum TSD length is 6.TIR consensus length is 43.
+rnd-5_family-5682,RC/Helitron,C(T-> ii),SC(T-> helitron),SF(),Palindrome length is 22.
+rnd-5_family-4992,LTR/ERV1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 199.
+rnd-5_family-1534,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-3768,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-5_family-6322,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-6811,LTR/Copia,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-5_family-4974,LTR/Pao,C(T-> ii S_SSR-> i),SC(T-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),TSD consensus length is 2.Short sequence repeated is AAATC.
+rnd-5_family-4667,LINE/L1,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is ATAGT.
+rnd-5_family-4080,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-5_family-2066,LINE/RTE-RTE,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3335,LINE/CR1-Zenon,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3856,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-676,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-6_family-12,DNA/hAT-Blackjack,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.
+rnd-6_family-2572,DNA/MULE-MuDR,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 27.
+rnd-6_family-701,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-6_family-2309,DNA/Crypton,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-908,LINE/L2,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-6_family-2969,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.TIR consensus length is 18.
+rnd-6_family-9258,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-94,DNA/hAT-Tip100,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-6_family-8462,DNA/PIF-Harbinger,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AAAAA.
+rnd-6_family-4684,LTR/Copia,C(T-> ii),SC(T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.
+rnd-6_family-449,LINE/Jockey,C(S_TIR-> ii S_SSR-> i),SC(S_TIR-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),TIR consensus length is 45.Short sequence repeated is TT.
+rnd-6_family-1188,DNA,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GTGT.
+rnd-6_family-1239,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GG.
+rnd-6_family-2950,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-6664,LTR/DIRS,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 10.
+rnd-6_family-4850,LINE/L1-Tx1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3989,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 64.
+rnd-6_family-6419,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTGAA.
+rnd-6_family-1443,DNA/TcMar-Tc1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 132.
+rnd-6_family-1975,LTR/Gypsy,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-3893,LINE/I,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(),TSD consensus length is 2.TIR consensus length is 34.
+rnd-6_family-567,LTR/Gypsy,C(S_TIR-> ii S_SSR-> i),SC(S_TIR-> dna transposon S_SSR-> non-ltr retrotransposon),SF(),TIR consensus length is 28.Short sequence repeated is AA.
+rnd-6_family-699,LTR/Gypsy,C(T-> ii),SC(T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 8.
+rnd-6_family-8845,LINE/CR1-Zenon,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-254,LTR/Copia,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-6_family-906,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GG.
+rnd-6_family-1588,LTR/ERV1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 92.
+rnd-6_family-2458,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> hat p is1016/merlin),TSD consensus length is 7.TIR consensus length is 18.
+rnd-6_family-3176,Unknown,C(T-> ii),SC(T-> dna transposon),SF(),TSD consensus length is 2.
+rnd-6_family-410,LTR/Gypsy-Cigr,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-800,LTR/DIRS,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 48.
+rnd-6_family-3627,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 23.
+rnd-6_family-1988,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 21.
+rnd-6_family-842,DNA/CMC-EnSpm,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 406.
+rnd-6_family-2641,LTR/Gypsy,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TAA.
+rnd-6_family-3237,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 53.
+rnd-6_family-6253,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-6_family-7357,LINE/RTE-X,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AACAT.
+rnd-6_family-2034,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-6_family-3625,Unknown,C(T-> i),SC(T-> ltr retrotransposon),SF(T-> ty3/gypsy ty1/copia retroviral),TSD consensus length is 5.
+rnd-6_family-164,Unknown,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 54.
+rnd-6_family-3880,Simple_repeat,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AGTC.
+rnd-6_family-3948,LINE/I,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 204.
+rnd-6_family-76,LTR/Gypsy,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 28.
+rnd-6_family-6385,LTR/Gypsy,C(),SC(H-> dna transposon),SF(),-
+rnd-6_family-480,Unknown,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is GG.
+rnd-6_family-2603,LINE/Rex-Babar,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3892,LTR/Pao,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 29.
+rnd-6_family-3178,LINE/L2,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is NNNNN.
+rnd-6_family-55,LINE/Rex-Babar,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-3931,Unknown,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> cacta/en/spm is5/pif/harbinger),TSD consensus length is 3.TIR consensus length is 17.
+rnd-6_family-12058,LINE/L1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 28.
+rnd-6_family-10754,DNA,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 26.
+rnd-6_family-2925,LTR/Gypsy,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-6_family-754,LINE/Jockey,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-111,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-2796,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-8268,DNA/hAT-Ac,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AACCG.
+rnd-6_family-1504,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-317,Simple_repeat,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTTTT.
+rnd-6_family-1264,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-1902,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-982,LTR/ERV1,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 14.
+rnd-6_family-4410,LINE/CR1-Zenon,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1184,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-837,SINE/MIR,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-582,LINE/CR1,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-5856,LTR/Copia,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 19.
+rnd-6_family-16,LINE/Penelope,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-12012,LTR/Gypsy,C(S_TIR-> ii T-> ii),SC(S_TIR-> dna transposon T-> dna transposon),SF(T-> is630/tc1/mariner),TSD consensus length is 2.TIR consensus length is 171.
+rnd-6_family-2509,DNA/TcMar-Tc1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 152.
+rnd-6_family-5465,DNA/MuLE-MuDR,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AAAAA.
+rnd-6_family-3702,LTR/Gypsy,C(T-> ii),SC(T-> helitron),SF(),Palindrome length is 12.
+rnd-6_family-7659,Unknown,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 10.
+rnd-6_family-12923,LTR/Gypsy,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is CC.
+rnd-6_family-6236,LINE/L2,C(S_SSR-> i),SC(H-> non-ltr retrotransposon S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is TTA.
+rnd-6_family-3411,LINE/L2,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is ATT.
+rnd-6_family-779,LINE/L1-Tx1,C(S_TIR-> ii),SC(S_TIR-> dna transposon),SF(),TIR consensus length is 28.
+rnd-6_family-466,RC/Helitron,C(),SC(H-> helitron),SF(),-
+rnd-6_family-1926,LTR/Gypsy-Cigr,C(),SC(H-> ltr retrotransposon),SF(),-
+rnd-6_family-4193,LTR/Gypsy,C(S_LTR-> i),SC(S_LTR-> Short Terminal Repeat),SF(),Terminal Repeat consensus length is 8.
+rnd-6_family-8183,LTR/Copia,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AAG.
+rnd-6_family-573,DNA/Zator,C(S_SSR-> i),SC(S_SSR-> non-ltr retrotransposon),SF(),Short sequence repeated is AA.
+rnd-6_family-2035,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-190,DNA/hAT-Tip100,C(T-> ii),SC(T-> dna transposon),SF(T-> is256/mutator/fb),TSD consensus length is 9.
+rnd-6_family-2166,LINE/L2,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-1971,LINE/RTE-BovB,C(),SC(H-> non-ltr retrotransposon),SF(),-
+rnd-6_family-6750,LTR/Gypsy,C(),SC(H-> ltr retrotransposon),SF(),-
