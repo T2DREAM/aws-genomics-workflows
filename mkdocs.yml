@@ -37,7 +37,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_generator: !!python/name:pymdownx.emoji.to_png
 
-repo_url: &repo_url https://github.com/aws-samples/aws-genomics-workflows/
+repo_url: &repo_url https://github.com/T2DREAM/aws-genomics-workflows/
 repo_name: Contribute
 copyright: 2019 Amazon Web Services
 
@@ -52,5 +52,5 @@ extra:
       bucket: aws-genomics-workflows
   site:
     s3:
-      bucket: docs.opendata.aws
+      bucket: docs.t2depigenome.org
       prefix: genomics-workflows
