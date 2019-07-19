@@ -1,6 +1,6 @@
 ## TO DO
 
-This list is based feed for react annotation graph V0.1 by T2D AMP consortium members
+This list is based on feed for react annotation graph V0.1 by T2D AMP consortium members
 
 - [ ] Tabular view of results 
 - [ ] Aggregate same annotation names on the display for a given tissue (aka reduce reduncy) 
