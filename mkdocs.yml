@@ -1,15 +1,16 @@
-site_name: Genomics Workflows on AWS
+site_name: T2D AMP Consortium Genomics Workflows on AWS
 nav:
   - Overview: index.md
-  - CloudFormation Templates & launching infrastructure: cloudformation
-  - Workflow Orchestration:
-    - Cromwell:
-      - Overview: orchestration/cromwell/cromwell-overview.md
-      - Examples: orchestration/cromwell/cromwell-examples.md
-
+  - AWS resources overview:
+    - Data Storage: core-env/create-s3-bucket.md
+    - Compute Resources: core-env/create-custom-compute-resources.md
+    - Permissions: core-env/create-iam-roles.md
+    - Batch: core-env/setup-aws-batch.md
+  - Containerized Tooling: containers/container-introduction.md
+  - Launching Cloud Infrastructure: cloudformation-templates.md
 extra_css: [extra.css]
 theme: 
-  name: material
+  name: readthedocs
   logo: 'images/logo.png'
   palette:
     primary: pink yellow
@@ -22,7 +23,7 @@ markdown_extensions:
 
 repo_url: &repo_url https://github.com/T2DREAM/aws-genomics-workflows/
 repo_name: Contribute
-copyright: 2019 Amazon Web Services
+copyright: 2019 Diabetes Epigenome Atlas
 
 plugins:
 - search

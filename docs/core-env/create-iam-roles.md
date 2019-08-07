@@ -19,7 +19,7 @@ IAM roles that your job execution environment in AWS Batch will use include:
 ```yaml
 
 # this inline policy specifies access to a single S3 bucket
-- PolicyName: GenomicsEnv-S3Bucket-Access-us-east-1
+- PolicyName: DGA-S3Bucket-Access-us-west-2
     PolicyDocument:
         Version: 2012-10-17
         Statement:
@@ -32,7 +32,7 @@ IAM roles that your job execution environment in AWS Batch will use include:
 
 # this inline policy allows the job instance to attach EBS volumes to create
 # extra scratch space for genomic data
-- PolicyName: GenomicsEnv-Autoscale-EBS-us-east-1
+- PolicyName: DGA-Autoscale-EBS-us-west-2
     PolicyDocument:
         Version: 2012-10-17
         Statement:
@@ -52,17 +52,10 @@ IAM roles that your job execution environment in AWS Batch will use include:
     If you create a managed compute environment that uses Amazon EC2 Spot Fleet Instances, you must create a role that grants the Spot Fleet permission to bid on, launch, tag, and terminate instances on your behalf.
     [(Learn More)](https://docs.aws.amazon.com/batch/latest/userguide/spot_fleet_IAM_role.html)
 
+* **Note - At this time we do not plan to use spot instances for our genomics work flow
+
 * **Batch Job Role (optional)**:
 
     Role used to provide service permissions to individual jobs.
     Jobs can run without an IAM role. In that case, they inherit the
     permissions of the instance they run on.
-
-The CloudFormation template below creates all of the above roles.
-
-| Name | Description | Source | Launch Stack |
-| -- | -- | :--: | :--: |
-{{ cfn_stack_row("Amazon IAM Roles", "GenomicsWorkflow-IAM", "aws-genomics-iam.template.yaml", "Create the necessary IAM Roles. This is useful to hand to someone with the right permissions to create these on your behalf. _You will need to provide a S3 bucket name_.") }}
-
-!!! note
-    In order to create these roles you will need privileged access to your account.

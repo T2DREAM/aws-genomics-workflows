@@ -2,7 +2,7 @@
     display: block;
 
     color: white !important;
-    background-color: blue;
+    background-color: #ec7211;
     
     border-radius: .25ex .25ex .25ex .25ex;
     border: 1px solid #eb5f07;
@@ -11,13 +11,13 @@
     text-decoration: none;
     
     /* padding: 0.5ex 2ex; */
-    width: 100px;
+    width: 64px;
 
-    line-height: 1.5;
+    line-height: 0.5;
 }
 
 .launch-button:hover, .launch-button:visited:hover {
-    background-color: blue;
+    background-color: #eb5f07;
     color: white !important;
 }
 

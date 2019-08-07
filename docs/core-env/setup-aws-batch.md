@@ -50,9 +50,3 @@ A complete AWS Batch environment consists of the following:
 2. A Compute Environment that utilizes EC2 on-demand (e.g. [public pricing](https://aws.amazon.com/ec2/pricing/on-demand/)) instances for high-priority work that can't risk job interruptions or delays due to insufficient Spot capacity.
 3. A default Job Queue that utilizes the Spot compute environment first, but falls back to the on-demand compute environment if there is spare capacity available.
 4. A high-priority Job Queue that leverages the on-demand and Spot CE's (in that order) and has higher priority than the default queue.
-
-The CloudFormation template below will create all of the above.
-
-| Name | Description | Source | Launch Stack |
-| -- | -- | :--: | :--: |
-{{ cfn_stack_row("AWS Batch", "GenomicsWorkflow-Batch", "aws-genomics-batch.template.yaml", "Creates AWS Batch Job Queues and Compute Environments. You will need to provide the details for your Launch Template ID, IAM roles and instance profiles, and the IDs for a VPC and subnets.") }}

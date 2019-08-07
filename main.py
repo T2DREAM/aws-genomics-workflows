@@ -42,7 +42,7 @@ def declare_variables(variables, macro):
         )
 
         return """
-        <a href="{url}" target="_blank" class="launch-button"><i class="material-icons">play_arrow</i></a>
+        <a href="{url}" target="_blank" class="launch-button">Launch</a>
         """.format(name=name, img=img_src, url=cfn_url)
     
     @macro
@@ -68,10 +68,10 @@ def declare_variables(variables, macro):
             if path.startswith("/"):
                 path = path[1:]
             
-            src_url = f"{repo_url}/blob/master/src/{path}"
+            src_url = f"https://github.com/T2DREAM/aws-genomics-workflows/blob/master/src/{path}"
         
         return """
-        <a href="{url}" target="_blank"><i class="material-icons">{icon}</i></a>
+        <a href="{url}" target="_blank">{icon}</a>
         """.format(icon=icon, url=src_url)
     
     @macro
