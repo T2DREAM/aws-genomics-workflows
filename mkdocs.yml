@@ -36,5 +36,5 @@ extra:
       bucket: aws-genomics-workflows
   site:
     s3:
-      bucket: docs.t2depigenome.org
+      bucket: docs.diabetesepigenome.org
       prefix: genomics-workflows
