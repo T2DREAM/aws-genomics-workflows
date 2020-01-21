@@ -8,6 +8,10 @@ nav:
     - Batch: core-env/setup-aws-batch.md
   - Containerized Tooling: containers/container-introduction.md
   - Launching Cloud Infrastructure: cloudformation-templates.md
+  - Nextflow Overview: orchestration/nextflow/nextflow-overview.md
+  - Running RNAseq pipeline: orchestration/nextflow/rnaseq.md
+  - Running ATACseq pipeline: orchestration/nextflow/atacseq.md
+
 extra_css: [extra.css]
 theme: 
   name: readthedocs
@@ -18,8 +22,6 @@ theme:
 markdown_extensions:
   - fontawesome_markdown
   - admonition
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_png
 
 repo_url: &repo_url https://github.com/T2DREAM/aws-genomics-workflows/
 repo_name: Contribute
@@ -36,5 +38,5 @@ extra:
       bucket: aws-genomics-workflows
   site:
     s3:
-      bucket: docs.diabetesepigenome.org
+      bucket: www.docs.diabetesepigenome.org
       prefix: genomics-workflows

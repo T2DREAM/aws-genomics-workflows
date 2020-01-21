@@ -1,7 +1,6 @@
 # T2D AMP Consortium Genomics Workflows on AWS
 
-
-## The purpose of this document is to demonstrate highly scaleable, cost effective and reproducible genomics workflow 
+The purpose of this document is to demonstrate highly scaleable, cost effective and reproducible genomics workflow 
 
 This documentation contains:
 
@@ -13,7 +12,7 @@ This documentation contains:
 
 4. Workflow orchestration using Nextflow
 
-DGA will maintain cloudformation templates to [launch resources](http://www.docs.t2depigenome.org/genomics-workflow/cloudformation/). T2D AMP member will be tasked to convert their pipelines to [Nextflow Workflow that would submit a nextflow Batch job to the appropriate Batch Job Queue via. AWS CLI] (http://www.docs.t2depigenome.org/genomics-workflow/orchestration/nextflow/nextflow-example/) 
+Frequently used Nextflow genomics pipelines built by community can be accessed here -  https://nf-co.re/pipelines.
 
-Frequently used Nextflow genomics pipelines built by community can be accessed here -  https://nf-co.re/pipelines 
+Get in touch with DGA team if you would like to implement your pipeline on AWS cloud. 
 
